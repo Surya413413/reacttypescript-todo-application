@@ -1,0 +1,20 @@
+.noteitems-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    justify-items: center;
+}
+.title-button{
+    background-color: transparent;
+    border-width: 0px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.button-pinned{
+    background-color: transparent;
+    border-width: 0px;
+}
